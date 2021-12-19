@@ -4,5 +4,5 @@
 Professor: Prof. Dr. Anselmo R. Pitombeira Neto
 
 Alunos:
-Rodrigo SIlvestre Queiroz <br>
-Sarah Sobrenome
+Rodrigo Silvestre Queiroz <br>
+Sarah Ribeiro da Silva
